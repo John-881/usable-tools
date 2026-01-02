@@ -1,2 +1,2 @@
 # usable-tools
-This a usable item, trust me, it will become.
+This is a usable item, trust me, it will become.
